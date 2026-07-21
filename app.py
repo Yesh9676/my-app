@@ -1,5 +1,6 @@
 def greet():
- return "Hello, CI/CD pipeline!"
+       return "Hello, CI/CD pipeline!"
 
-if __name__ == "__main__":
- print(greet())
+
+   if __name__ == "__main__":
+       print(greet())
